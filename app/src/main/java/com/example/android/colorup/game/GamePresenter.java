@@ -51,7 +51,6 @@ public class GamePresenter implements GameContract.Presenter{
 
         ArrayList<UpdateSquare> updates = mGameBoard.getUpdates(direction);
 
-       // Log.v("updates size"," "+updates.size());
         if(updates.size()>0) {
             mView.update(updates,mGameBoard.getBoard(),mGameBoard.getLastDirection());
             Integer score = mGameBoard.getScore();
