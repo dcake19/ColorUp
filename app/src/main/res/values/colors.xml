@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorText">#F5F5F5</color>
+    <color name="colorScore">#FAFAFA</color>
+    <color name="colorBackground">#656565</color>
+    <color name="colorBackground2">#FFF9D4</color>
+
+    <color name="colorEmpty">#CCCCCC</color>
+
+    <color name="colorTitle1">#2196F3</color>
+    <color name="colorTitle2">#FFC107</color>
+    <color name="colorTitle3">#D500F9</color>
+    <color name="colorTitle4">#4CAF50</color>
+    <color name="colorTitle5">#E53935</color>
+    <color name="colorTitle6">#00BCD4</color>
+    <color name="colorTitle7">#FF5722</color>
+
+    <color name="colorGameOverBackground">#65656565</color>
+    <color name="colorGameOverText">#000000</color>
+
+</resources>
